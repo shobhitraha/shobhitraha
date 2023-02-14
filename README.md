@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Linux-4285F4?style=flat&logo=linux&logoColor=f1f6f9">
   
   
-  <a href="https://github.com/Rahul-Ranjan-Singh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul-Ranjan-Singh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Shobhit-Raha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shobhit-Raha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Ranjan-Singh&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
